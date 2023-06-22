@@ -1,0 +1,88 @@
+Document:System Requirement Specification Document
+
+Title:System Reqruiement Spefication for Farming Online Selling Application
+
+Team:Project Manager,Agricultural Expert,Sales and Marketing Specialist,Store Manager,Technical Support Specialist,Accountant,Customer Service Representative.
+
+Objective (Purpose):The main objective is to create a fully functional and profitable agriculture shop that caters to the need of farmers,gardeners 
+and agricultural enthusiasts.
+
+Scope:
+The scope of the agriculture shop project is to establish a successful and sustainable shop that offers a wide range of agricultural products and supplies. 
+This includes seeds, fertilizers, pesticides, irrigation systems, tools, machinery, and more. The project aims to support local farmers, promote sustainable practices, 
+and provide exceptional customer service. It involves setting up the physical shop, creating an online presence, recruiting and training staff, implementing effective 
+marketing strategies, and ensuring sound financial management.
+
+Definitions:
+ TSS-Technical Support Specialist
+ CSS-Customer Service Represenative
+ MS-Marketing Specialist
+ AE-Agricultural Expert
+ PM-Project Manager
+ 
+ Requirements:
+ 
+ Functional Requirements:
+ 
+1) Product Catalog: The system should provide a comprehensive catalog of agricultural products, including details such as product descriptions, specifications, 
+pricing, and availability.
+
+2)Inventory Management: The system should track and manage inventory, including real-time updates on stock levels, automatic reordering, and alerts for low stock 
+items.
+
+3)Sales and Order Processing: The system should enable customers to place orders, process payments securely, and generate order confirmations. 
+It should also facilitate order fulfillment and provide notifications on order status.
+
+4)Customer Management: The system should allow for the management of customer information, including the ability to track customer orders, preferences,
+and purchase history.
+
+5)Reporting and Analytics: The system should generate reports on sales, inventory levels, customer trends, and other key metrics to support decision-making 
+and business analysis.
+
+6)Customer Support: The system should provide mechanisms for customers to contact support, submit inquiries or issues, and receive timely and helpful responses.
+
+
+Non-Functional Requirements:
+
+1)Usability: The system should have a user-friendly interface that is intuitive and easy to navigate, allowing customers to browse products 
+and make purchases without difficulty.
+
+2)Performance: The system should be able to handle concurrent user interactions, process transactions quickly, and ensure minimal downtime or disruptions.
+
+3)Security: The system should implement robust security measures to protect customer data, including secure payment processing, encryption, 
+and adherence to privacy regulations.
+
+4)Scalability: The system should be designed to accommodate future growth and handle increasing numbers of products, customers, 
+and transactions without significant performance degradation.
+
+5)Reliability: The system should be reliable and available for customers at all times, minimizing system failures and ensuring data integrity.
+
+6)Mobile Compatibility: The system should be accessible and optimized for mobile devices, allowing customers to browse and make purchases 
+using smartphones or tablets.
+
+7)Integration: The system should be able to integrate with other systems or platforms, such as payment gateways, shipping providers, 
+or marketing tools, to streamline processes and enhance functionality.
+
+8)Accessibility: The system should be designed with accessibility considerations in mind, ensuring compliance with accessibility standards 
+and providing accommodations for users with disabilities.
+
+These functional and non-functional requirements provide a foundation for the design and development of the agriculture shop project, 
+ensuring that the system meets the needs of customers, operates efficiently, and delivers a positive user experience.
+
+Use Case Diagram:  ( UML)
+		Object Oriented Analyis and Design Notation: UML--------Unified Modeling language
+
+		Design Phase:
+
+			Use case diagram
+			Activity diagram
+			State Transition diagram
+			Class diagram
+			deployment diagram
+			object diagram
+	
+
+
+
+
+
